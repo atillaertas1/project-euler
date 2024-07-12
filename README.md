@@ -1,7 +1,7 @@
 # Project Euler Çözümleri - C Dili
 
 Bu proje, C programlama dilinde yazılmış Project Euler problemlerinin çözümlerini içermektedir. Project Euler, çeşitli matematiksel ve programlama problemleri sunan bir web sitesidir. Bu problemler genellikle algoritmik düşünme ve matematiksel kavramları anlamayı gerektirir.
-[text](https://projecteuler.net/)
+[Project Euler web sitesi](https://projecteuler.net/)
 
 ## Project Euler Nedir?
 
