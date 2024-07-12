@@ -6,7 +6,7 @@
 int main()
 {
     long long number = 600851475143;
-    printf("%lld",number);
+    printf("%lld", number);
     int largest_prime = 0;
 
     if (number % 2 == 0)
