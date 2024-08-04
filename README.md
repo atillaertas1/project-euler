@@ -22,4 +22,4 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 1. Bu depoyu klonlayın:
    ```sh
-   git clone https://github.com/kullanici/project-euler-c-solutions.git
+   git clone https://github.com/atillaertas1/project-euler.git
